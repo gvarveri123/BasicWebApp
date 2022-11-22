@@ -1,1 +1,0 @@
-### First training project for a web app use python django and vue
